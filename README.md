@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wingstofree
 - 👀 I’m interested in Java Web3
-- 🌱 twitter：@wingstofree
 - 💞️ phone：15512985951
 - 📫 QQ ：2200321768
 
