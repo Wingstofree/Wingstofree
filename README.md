@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wingstofree
-- 👀 I’m interested in Java Web3
-- 💞️ phone：15512985951
+- 👀 I’m interested in JavaAI Web3
 - 📫 QQ ：2200321768
 
 <!---
