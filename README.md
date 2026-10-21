@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wingstofree
-- 👀 I’m interested in JavaAI Web3
-- 📫 QQ ：2200321768
+- 👀 I’m interested in AI Web3
 
 <!---
 Wingstofree/Wingstofree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
